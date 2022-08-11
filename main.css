@@ -1,0 +1,19 @@
+#container {
+  margin: 2rem;
+}
+
+#counterFirst {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+#counterSecond {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+#resetValue {
+  margin-top: 2rem;
+  display: block;
+}
+
+/*# sourceMappingURL=main.css.map */
